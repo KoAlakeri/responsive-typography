@@ -112,7 +112,6 @@ article ol {
 }
 
 @media only screen and (min-width: 90em) {
-
   article {
     font-size: 130%;
   }
@@ -120,5 +119,4 @@ article ol {
   article > p:last-child {
     padding-bottom: 1.5rem;
   }
-
 }
